@@ -1,8 +1,8 @@
 # Exploratory-Data-analysis-EDA-with-Pandas-and-Numpy
 # Import necessary libraries
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
+# import pandas as pd
+# import numpy as np
+# import matplotlib.pyplot as plt
 
 # Load the dataset
 df = pd.read_csv('https://www.dropbox.com/s/f9oypx9o7pbdcu5/iris.csv?dl=1')
