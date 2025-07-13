@@ -6,7 +6,7 @@
 
 # Load the dataset
 iris.csv = ('https://www.dropbox.com/s/f9oypx9o7pbdcu5/iris.csv?dl=1')
-df = pd.read_csv('iris.csv')
+df = pd.read('iris.csv')
 
 # View the first few rows of the dataset
 print(df.head())
