@@ -5,7 +5,6 @@
 # import matplotlib.pyplot as plt
 
 # Load the dataset
-iris = ('https://www.dropbox.com/s/f9oypx9o7pbdcu5/iris.csv?dl=1')
 df = pd.read_csv('iris.csv')
 
 # View the first few rows of the dataset
